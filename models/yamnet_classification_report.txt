@@ -1,0 +1,10 @@
+                precision    recall  f1-score   support
+
+    background      1.000     0.867     0.929        45
+         siren      1.000     1.000     1.000        20
+glass_breaking      0.972     1.000     0.986        35
+     explosion      0.800     1.000     0.889        20
+
+      accuracy                          0.950       120
+     macro avg      0.943     0.967     0.951       120
+  weighted avg      0.959     0.950     0.951       120
